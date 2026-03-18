@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "董娟的个人主页",
+    "section": "",
+    "text": "学号：2025303120140\n姓名：董娟\n专业：资源利用与植物保护\n\n\n\n\n\n数据分析与可视化\n机器学习/统计建模\n可重复性研究与文学化编程\n\n\n\n\n\n编程语言：R、Python\n工具：Quarto、Git/GitHub、Positron"
+  },
+  {
+    "objectID": "index.html#基本信息",
+    "href": "index.html#基本信息",
+    "title": "董娟的个人主页",
+    "section": "",
+    "text": "学号：2025303120140\n姓名：董娟\n专业：资源利用与植物保护"
+  },
+  {
+    "objectID": "index.html#核心兴趣",
+    "href": "index.html#核心兴趣",
+    "title": "董娟的个人主页",
+    "section": "",
+    "text": "数据分析与可视化\n机器学习/统计建模\n可重复性研究与文学化编程"
+  },
+  {
+    "objectID": "index.html#掌握技能",
+    "href": "index.html#掌握技能",
+    "title": "董娟的个人主页",
+    "section": "",
+    "text": "编程语言：R、Python\n工具：Quarto、Git/GitHub、Positron"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于我",
+    "section": "",
+    "text": "目前就读于资源利用与植物保护专业。\n\n\n\n文档编写：基于Quarto实现代码+文档一体化，生成HTML/PDF/PPT等格式 AI辅助编程：掌握Vibe Coding思路，使用Cline/AI助手快速生成原型代码"
+  },
+  {
+    "objectID": "about.html#学习背景",
+    "href": "about.html#学习背景",
+    "title": "关于我",
+    "section": "",
+    "text": "目前就读于资源利用与植物保护专业。"
+  },
+  {
+    "objectID": "about.html#技术能力",
+    "href": "about.html#技术能力",
+    "title": "关于我",
+    "section": "",
+    "text": "文档编写：基于Quarto实现代码+文档一体化，生成HTML/PDF/PPT等格式 AI辅助编程：掌握Vibe Coding思路，使用Cline/AI助手快速生成原型代码"
+  }
+]

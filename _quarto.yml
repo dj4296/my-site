@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "董娟的个人主页"
+  navbar:
+    left:
+      - href: index.qmd
+        text: 首页
+      - href: about.qmd
+        text: 关于我
+    
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
